@@ -9,7 +9,7 @@ in 24-28.csv an example data exported from my MT5
 
 ## How to export from MT5
 Step 1:
-![Step 1](s.png)
+![Step 1](s1.png)
 
 Step 2:
-![Step 2](s.png)
+![Step 2](s2.png)
